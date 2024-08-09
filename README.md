@@ -6,3 +6,5 @@ The objects of this project:
     Learn to pass data to and return data from a function
     Use of loops
     Use of output file processing
+*****
+Whats been changed?: A list of the objects of the program has been added.
